@@ -1,1 +1,0 @@
-git subtree --prefix client push origin gh-pages
